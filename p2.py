@@ -11,3 +11,4 @@ for row in range(1,num+1):
             print("0 ", end="")
     
     print(" ")
+    
